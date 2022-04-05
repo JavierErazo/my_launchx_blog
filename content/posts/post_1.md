@@ -1,7 +1,7 @@
 ---
-title: "Título de tu blog post"
+title: "Un grato recuerdo de Launch X"
 date: 2022-03-01
-description: 'Descripción de tu blog post'
+description: 'Centrando elementos con flexbox'
 ---
 
 Tengo un recuerdo muy especial acerca de mi experiencia en Launch X. Esto fue durante la misión de Front-End.
